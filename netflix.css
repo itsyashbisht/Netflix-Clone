@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+    color: white;
+}
+
+.frontpage{
+    height: 700px;
+    width: 100%;
+    background-image: url(mainback.png.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border:#00000066;
+}
+
+h1{
+    font-size: 48px;
+}
+.para2{
+    font-size: 24px;
+    margin-top: 16px;
+}
+h3{
+    font-size: 20px;
+    margin-top: 16px;
+}
+.frontchannel{
+   text-align: center;
+}
+input{
+    height: 16px;
+    width: 334.75px;
+    padding: 24px 16px 8px;
+    border-radius: 3px;
+    margin-right: 3;
+}
+.buttondiv{
+    margin-top: 16px;
+}
+button{
+    height: 52px;
+    width: 211px;
+    font-size: 1.8rem;
+    border-radius: 3px;
+}  
+
+.content1{
+    margin-top: 4px;
+    height: 503px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.television{
+   background-color: red;
+   height: 359px;
+   width: 474px;
+   background-image: url(tv\ \(1\).png);
+   background-size: cover;
+}
+.text1{
+    height: 359px;
+    width: 474px;
+    margin-top: 112px;
+}
+.para3{
+    margin-top: 16px;
+}
+.content2{
+    margin-top: 4px;
+    height: 503px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text2{
+    height: 359px;
+    width: 474px;
+    margin-top: 112px;
+}
+.download{
+    height: 359px;
+    width: 474px;
+    background-image: url(mobile-0819.jpg);
+    background-size: cover;
+}
+.content3{
+    margin-top: 4px;
+    height: 503px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.screen{
+    background-image: url(device-pile-in.png);
+    background-size: cover;
+    height: 359px;
+    width: 474px;
+}
+.text3{
+    height: 359px;
+    width: 474px;
+    margin-top: 112px;
+}
+.content4{
+    margin-top: 4px;
+    height: 503px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text4{
+    height: 359px;
+    width: 474px;
+    margin-top: 112px;
+}
+.profile{
+    background-image: url(kids.png);
+    background-size: cover;
+    height: 359px;
+    width: 474px;
+}
+.quebox{
+    display: block;
+    height: 84px;
+    width: 964px;
+    padding: 24px;
+    margin-top: 5px;
+    text-align: left;
+    background-color: rgb(45, 45, 45);
+}
+.footer{
+    margin-top: 4px;
+    height: 927px;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#loginbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#endtext{
+    text-align: center;
+}
+
+#quetext{
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.footerpanel{
+    margin-top: 4px;
+    height: 338px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footerlinks{
+    height: 266px;
+    width: 961px;
+    display: flex;
+    columns: rgba(255,255,255,0.7); 
+    font-size: 16px;  
+    font-weight: 400;
+    text-decoration: underline;
+    line-height: 40px;
+    margin-left: 105px;
+    margin-right: 105px;
+    padding-left: 48px;
+    padding-right: 48px;
+}
